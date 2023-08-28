@@ -33,7 +33,7 @@
 
 .header__logo-image {
     display: block;
-    width: 148px;
+    width: 151px;
     height: 105px;
     justify-self: center;
 }
@@ -52,11 +52,14 @@
 .cover {
     position: relative;
     background-image: url(../images/cover.jpg);
+    background-size: cover;
     padding: 165px 50px 50px 50px;
 }
 
 .overlay {
     position: absolute;
+    left: 0;
+    top: 0;
     opacity: 0.6;
     background: #000;
     inset: 0;
@@ -88,7 +91,6 @@
 
 .aligned-text_center {
     text-align: center;
-    padding: 20px 0;
 }
 
 .aligned-text_right {
@@ -97,6 +99,10 @@
 
 .letter-spacing-extended {
     letter-spacing: 60px;
+}
+
+.no-letter-spacing {
+    letter-spacing: 0;
 }
 
 .cover__description {
@@ -118,7 +124,7 @@
     text-transform: uppercase;
     display: block;
     padding: 12px 78px 0 0;
-    word-spacing: 25px;
+    word-spacing: 23px;
 }
 
 .bet-button {
@@ -127,11 +133,13 @@
     padding: 12px 32px;
     color: #FFF;
     text-align: center;
+    font-family: Raleway;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .lots {
