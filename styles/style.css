@@ -21,7 +21,6 @@
 
 .header__link {
     color: #000;
-    font-family: Raleway;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -41,7 +40,6 @@
 
 .address {
     color: #000;
-    font-family: Raleway;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -68,7 +66,6 @@
 .cover__title {
     position: relative;
     color: #FFF;
-    font-family: Raleway;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -114,7 +111,6 @@
 .cover__description-text {
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -131,7 +127,6 @@
     padding: 12px 32px;
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -145,7 +140,6 @@
 
 .lots__heading {
     color: #000;
-    font-family: Raleway;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -162,7 +156,7 @@
 }
 
 .lots__card-list-item {
-    height: 450px;
+    min-height: 450px;
     width: 430px;
     position: relative;
     flex-grow: 1;
@@ -186,7 +180,6 @@
 
 .card__title {
     color: #FFF;
-    font-family: Raleway;
     font-size: 22px;
     font-style: normal;
     font-weight: 700;
@@ -199,7 +192,6 @@
 
 .card__text {
     color: #FFF;
-    font-family: Raleway;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -224,7 +216,6 @@
     display: block;
     padding: 30px 0 0 40px;
     color: #000;
-    font-family: Raleway;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -265,7 +256,6 @@
 .about__title {
     padding: 100px 0 75px 0;
     color: #000;
-    font-family: Raleway;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -275,7 +265,6 @@
 
 .about__text p {
     color: #000;
-    font-family: Raleway;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -297,7 +286,6 @@
 
 .footer__link {
     color: #000;
-    font-family: Raleway;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
