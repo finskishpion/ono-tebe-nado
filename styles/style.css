@@ -94,7 +94,7 @@
 
 .aligned-text_center {
     text-align: center;
-    padding: 10px 10px 15px 0;
+    padding: 12px 30px 7px 0;
 }
 
 .aligned-text_right {
@@ -110,7 +110,7 @@
 }
 
 .cover__description {
-    padding: 130px 0 0 0;
+    padding: 128px 0 0 0;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -128,7 +128,7 @@
     text-transform: uppercase;
     display: block;
     padding: 12px 78px 0 0;
-    word-spacing: 20px;
+    word-spacing: 19px;
 }
 
 .bet-button {
